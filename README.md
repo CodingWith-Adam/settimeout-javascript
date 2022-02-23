@@ -2,7 +2,7 @@
 
 ![alt text](cover.png)
 
-YouTube Link: (coming soon)
+YouTube Link: https://youtu.be/xGew__dINl8
 
 In this video we are going to learn about the javascript setTimeout method. The setTimeout method allows you to set a timer and then execute a function at the end of that timer. The setTimeout timer can be canceled by calling clearTimeout and passing in the setTimeOut id(TimerId)
 
